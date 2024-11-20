@@ -15,6 +15,7 @@ public class First {
 
         System.out.println(a.equals(b));
 //equals method checks the value of the string that they are store inside the heap
-       
+       System.out.printf("pie :%.3f",Math.PI);
+       //%3f its called the palce holder and its  also round of the numbers 
     }
 }
