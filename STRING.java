@@ -1,3 +1,4 @@
+
 public class STRING {
     public static void main(String[]args){
         String  st ="java";
@@ -29,3 +30,5 @@ System.out.println(ss1.compareTo(ss5));//2 because "h" is 2 times greater than "
 
 
 }
+
+   
